@@ -1,5 +1,7 @@
 # Flutter Cupertino Date Picker
 
+# Deprecated
+
 [[pub packages]](https://pub.dartlang.org/packages/flutter_cupertino_date_picker)
 | [中文说明](./README_zh-cn.md)
 
